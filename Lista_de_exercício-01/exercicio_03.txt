@@ -1,0 +1,10 @@
+#Exercício 3
+#algoritmo para calcular a média de três notas
+
+#(n1+n2+n3)/3 = media
+
+obter a primeira nota e chama-la de n1
+obter a segunda nota e chama-la de n2
+obter a terceira nota e chama-la de n3
+media receberá a soma de n1, n2 e n3 dividido por três
+imprimir a média
