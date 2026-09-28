@@ -6,7 +6,7 @@ Taught by Professor João Paulo Folador
 <br>
 By Calebe Camilo
 <br>
-<br>--------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br>-----------------------------------------------------------------------------------------------------------------------------
 
 Repositório dedicado à cadeira de Introdução a Programação, do bacharelado em Inteligência Artificial da Universidade Federal do Triângulo Mineiro(UFTM).
 <br>
